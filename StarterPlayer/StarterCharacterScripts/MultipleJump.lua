@@ -8,7 +8,7 @@ local userInputService = game:GetService("UserInputService")
 local character = script.Parent
 local humanoid = character:WaitForChild("Humanoid")
 
-local additionalJumps = 2
+local additionalJumps = config_additionalJumps
 local previousJump = tick()
 
 local function MultipleJump()
