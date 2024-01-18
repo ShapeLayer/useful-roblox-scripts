@@ -5,6 +5,7 @@ local config_dash_maxforce_limit = 30_000
 local config_dash_velocity_amplifier = 150
 
 local config_wait_loop_range = 8
+local config_duration_each_one_loop_cycle = .05
 
 local userInputService = game:GetService("UserInputService")
 local character = script.Parent
@@ -24,7 +25,7 @@ function Dash(input, processed)
 		bodyVelocity.Parent = character.HumanoidRootPart
 
 		for count = 1, config_wait_loop_range do
-			wait(0.05)
+			wait(config_duration_each_one_loop_cycle)
 			bodyVelocity.Velocity*= 0.7
 		end
 		bodyVelocity:Destroy()
