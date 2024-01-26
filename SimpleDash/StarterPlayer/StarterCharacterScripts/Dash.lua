@@ -13,7 +13,7 @@ local character = script.Parent
 
 local nowDashing = false
 
-function Dash(input, processed)
+local function Dash(input, processed)
 	if processed then return end
 	if nowDashing then return end
 	
