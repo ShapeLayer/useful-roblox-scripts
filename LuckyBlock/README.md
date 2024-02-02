@@ -16,7 +16,7 @@ Click block.
 * Add [Script](./[Part]/LuckyBlock.lua) under the added `Part`.
 
 ![](./.github/explorer2.png)  
-* Create folder named `tools`.
+* Create folder named `tools` under the `ReplicatedStorage`.
 * Add any tools under the `tools` folder.
 
 ## Parameter
