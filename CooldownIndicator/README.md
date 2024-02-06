@@ -2,7 +2,7 @@
 
 ![](./.github/demo.png)  
 
-## Location and Requirements
+## How to Setup
 
 ![](./.github/location.png)  
 

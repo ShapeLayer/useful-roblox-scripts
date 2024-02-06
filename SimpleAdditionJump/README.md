@@ -1,6 +1,6 @@
 # Simple Additional Jump
 
-## Location
+## How to Setup
 
 ![](./.github/location.png)  
 

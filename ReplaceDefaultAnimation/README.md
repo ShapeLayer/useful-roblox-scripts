@@ -1,6 +1,6 @@
 # Replace Default Animation
 
-## Location
+## How to Setup
 ![](./.github/location.png)  
 
 `DefaultMotionReplacer.lua` script must be located in `/ServerScriptService` as `Script`.

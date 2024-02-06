@@ -1,6 +1,6 @@
 # Simple Dash
 
-## Location
+## How to Setup
 
 ![](./.github/location.png)  
 

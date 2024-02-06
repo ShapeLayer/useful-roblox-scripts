@@ -7,7 +7,7 @@
 
 Click block.
 
-## Requirements
+## How to Setup
 
 ![](./.github/explorer1.png)  
 
