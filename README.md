@@ -6,6 +6,7 @@ I use these when working as part-time coding lecturer.
 ## Scripts
 * [Cooldown Indicator](./CooldownIndicator/)
 * [Elapsed Time Leaderboard](./ElapsedTimeLeaderboard/)
+* [Food](./Food/)
 * [Lucky Block](./LuckyBlock/)
 * [Replace Default Animation](./ReplaceDefaultAnimation/)
 * [Simple Additional Jump](./SimpleAdditionalJump/)
